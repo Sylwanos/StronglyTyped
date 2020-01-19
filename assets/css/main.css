@@ -19,9 +19,11 @@ canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
 section, summary, time, mark, audio, video {
 	margin: 0;
+	color:greenyellow;
+	/* margin: 15px; */
 	padding: 0;
 	border: 0;
-	font-size: 100%;
+	font-size: 40px;
 	font: inherit;
 	vertical-align: baseline;}
 

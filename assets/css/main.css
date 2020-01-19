@@ -2102,11 +2102,11 @@ input, select, textarea {
 	#banner {
 		position: relative;
 		overflow: hidden;
-		background: #fff;
-		color: #fff;
+		background: rgb(11, 148, 6);
+		color: rgb(255, 255, 255);
 		text-align: center;
-		border-top: solid 2px #e5e5e5;
-		border-bottom: solid 2px #e5e5e5;
+		border-top: solid 50px #f3972e;
+		border-bottom: solid 10px #e5e5e5;
 		box-shadow: inset 0px -8px 0px 0px #fff, inset 0px 8px 0px 0px #fff;
 		position: relative;
 		text-transform: uppercase;
